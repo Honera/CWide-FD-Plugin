@@ -1,4 +1,4 @@
-# CWide
+# CWide - The CWeet IDE FlashDevelop Plugin 
 FlashDevelop C++ plugin, using Cwc
 
 ## Install instruction :
